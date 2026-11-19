@@ -22,6 +22,7 @@ pipeline {
                     gradle build
 
                     echo "Build step completed successfully. Next step is Test ...."
+                    echo "Build step completed successfully. Next step is Test1 ...."
                 '''
             }
         }
